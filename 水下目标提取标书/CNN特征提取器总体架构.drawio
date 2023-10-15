@@ -437,7 +437,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="_YSXHMxGsRq2hctwmsT6" name="CNN特征提取器总体架构图通道版">
-        <mxGraphModel dx="1173" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="881" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -465,7 +465,7 @@
                 <mxCell id="Ea_NxiMgeQtHUgPQ_xxu-6" value="" style="group" vertex="1" connectable="0" parent="Ea_NxiMgeQtHUgPQ_xxu-5">
                     <mxGeometry x="50" width="420" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="Ea_NxiMgeQtHUgPQ_xxu-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="Ea_NxiMgeQtHUgPQ_xxu-6">
+                <mxCell id="Ea_NxiMgeQtHUgPQ_xxu-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;14&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="Ea_NxiMgeQtHUgPQ_xxu-6">
                     <mxGeometry x="178.10126582278482" y="116.31578947368422" width="63.79746835443038" height="13.684210526315795" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ea_NxiMgeQtHUgPQ_xxu-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;48&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;container=0;" vertex="1" parent="Ea_NxiMgeQtHUgPQ_xxu-6">
